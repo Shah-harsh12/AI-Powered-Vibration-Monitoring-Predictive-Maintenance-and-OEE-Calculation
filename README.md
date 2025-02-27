@@ -1,8 +1,4 @@
 # AI-Powered-Vibration-Monitoring-Predictive-Maintenance-and-OEE-Calculation
-This project leverages AI/ML to monitor industrial vibration data, predict failures, and calculate OEE. By detecting anomalies and forecasting maintenance needs, it reduces downtime, lowers costs, and optimizes performance, it enables real-time monitoring via a Flask/FastAPI-based API for seamless industrial integration.
-## **Project Title:**  
-**AI-Powered Vibration Monitoring, Predictive Maintenance, and OEE Calculation**  
-
 ## **Project Description:**  
 Industrial machinery often exhibits early warning signs before failure, such as abnormal vibration patterns, inconsistent performance, and reduced efficiency. To prevent unplanned downtime, reduce maintenance costs, and optimize equipment performance, this project leverages **Machine Learning (ML) and Artificial Intelligence (AI)** to monitor vibration data, predict failures, and calculate **Overall Equipment Effectiveness (OEE).**  
 
