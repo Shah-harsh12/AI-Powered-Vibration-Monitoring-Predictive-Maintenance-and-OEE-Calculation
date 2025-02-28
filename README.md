@@ -32,3 +32,58 @@ Industrial machinery often exhibits early warning signs before failure, such as 
 - **Deployment:** Local server, Heroku (optional)  
 
 This project is designed to provide a **scalable, AI-driven solution for industrial equipment monitoring**, making manufacturing processes more **efficient, reliable, and cost-effective.**
+
+# Project Setup Guide
+
+## Backend Setup (Flask)
+
+1. Create a folder named `flask` and navigate to it.
+2. Set up a virtual environment:
+   ```sh
+   py -m venv .env
+   ```
+3. Activate the virtual environment:
+   ```sh
+   .env\Scripts\activate
+   ```
+   **Note:** If activation fails, use the following command:
+   ```sh
+   Set-ExecutionPolicy Unrestricted -Scope Process
+   ```
+4. Install Flask:
+   ```sh
+   pip install flask
+   ```
+5. Save dependencies:
+   ```sh
+   pip freeze > requirements.txt
+   ```
+6. Create the main application file:
+   ```sh
+   app.py  # Create this file inside the flask folder
+   ```
+
+## Frontend Setup
+
+1. Inside the `flask` folder:
+   - Create a folder named `static` to store CSS files.
+   - Create a folder named `templates` to store HTML files.
+   - Store JavaScript files directly in the `flask` folder.
+
+## Model Training Steps
+
+1. **Data Collection**
+2. **Exploratory Data Analysis (EDA)**
+3. **Model Training**
+
+   *All tasks are performed using Jupyter Notebook.*
+
+## Website Integration
+
+- I use **QM42VT2** sensor and **Modbus** for data collection.
+- Modify your code based on your **Modbus** measurements.
+- Used **Postman** for backend API testing.
+
+---
+
+This setup ensures a structured approach for development, model training, and integration.
