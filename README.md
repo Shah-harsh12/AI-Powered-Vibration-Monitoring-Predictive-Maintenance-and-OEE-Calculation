@@ -77,7 +77,7 @@ This project is designed to provide a **scalable, AI-driven solution for industr
    - │  ├── style.css  (Tailwind compiled CSS)
    - └── templates/
    -    ├── index.html
-   -    
+     
 ## Model Training Steps
 
 1. **Data Collection**
