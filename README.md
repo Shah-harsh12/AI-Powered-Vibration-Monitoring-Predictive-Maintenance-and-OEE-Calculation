@@ -74,9 +74,9 @@ This project is designed to provide a **scalable, AI-driven solution for industr
    - ├── index.html
    - ├── script.js  ✅ (Make sure it's here)
    - ├── static/
-   - │  ├── style.css  (Tailwind compiled CSS)
+     │  ├── style.css  (Tailwind compiled CSS)
    - └── templates/
-   -    ├── index.html
+   - |- ├── index.html
      
 ## Model Training Steps
 
