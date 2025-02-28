@@ -69,6 +69,15 @@ This project is designed to provide a **scalable, AI-driven solution for industr
    - Create a folder named `static` to store CSS files.
    - Create a folder named `templates` to store HTML files.
    - Store JavaScript files directly in the `flask` folder.
+   - /my_project
+    ├── app.py
+    ├── index.html
+    ├── script.js  ✅ (Make sure it's here)
+    ├── static/
+    │   ├── style.css  (Tailwind compiled CSS)
+    └── templates/
+        ├── index.html
+
 
 ## Model Training Steps
 
