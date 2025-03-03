@@ -93,5 +93,12 @@ This project is designed to provide a **scalable, AI-driven solution for industr
 - Used **Postman** for backend API testing.
 
 ---
+## Important Libraries 
+- Pyserial
+- Numpy
+- Sikit learn 
+- Pandas
+- Joblib
+- Pymodbus(If you are using modbus for data collection)
 
 This setup ensures a structured approach for development, model training, and integration.
