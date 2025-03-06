@@ -86,7 +86,7 @@ This project is designed to provide a **scalable, AI-driven solution for industr
 
    *All tasks are performed using Jupyter Notebook.*
 
-## Website Integration
+## Hardware components
 
 - I use **QM42VT2** sensor and **Modbus** for data collection.
 - Modify your code based on your **Modbus** measurements.
